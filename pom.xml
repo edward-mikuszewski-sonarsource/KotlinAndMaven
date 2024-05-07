@@ -16,10 +16,8 @@
 	<properties>
 		<java.version>17</java.version>
 		<kotlin.version>1.9.23</kotlin.version>
-	</properties>
-	<properties>
-		 <sonar.organization>edward-mikuszewski-sonarsource</sonar.organization>
- 		 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.organization>edward-mikuszewski-sonarsource</sonar.organization>
+ 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	<dependencies>
 		<dependency>
